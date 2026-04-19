@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charm1e.github.io/charmienazareth.github.io/sitemap.xml
